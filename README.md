@@ -55,7 +55,7 @@ With Server Manager open, on the top right, select “Tools” then “Active Di
 <br />
 <br />
 
-s
+
 
 6.
 <p align="center">
@@ -95,7 +95,7 @@ Create a password for our helpdesk account. Then select “finish”.
 <br />
 <br />
 
-s
+
 
 11.
 <p align="center">
