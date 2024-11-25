@@ -123,7 +123,7 @@ For our first command, type ipconfig and press Enter. This command will display 
 
 14.
 <p align="center">
-<img src="https://i.imgur.com/4H1V733.png" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4H1V733.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -132,7 +132,7 @@ We can also type “ipconfig /all” which will display our computer's entire ne
 
 15.
 <p align="center">
-<img src="https://i.imgur.com/G3F1hZb.png" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G3F1hZb.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -140,7 +140,7 @@ Another useful command is net use. This command is used for managing, connecting
 
 16.
 <p align="center">
-<img src="https://i.imgur.com/tYbtKcX.png" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tYbtKcX.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
